@@ -1,0 +1,9 @@
+FRAMEWORK PURCHASE AGREEMENT
+Supplier: Nordic Silicon Solutions (Norway)
+Product Category: Wireless Modules & Bluetooth SoCs (SKU-BLE-SOC)
+
+TERMS & CONDITIONS:
+1. Standard Delivery: FOB Oslo with guaranteed 14-day lead time across European and North American distribution hubs.
+2. Reliability Commitment: 98.5% guaranteed on-time fulfillment rate with late delivery penalty of 1.5% per week of delay up to a maximum 10% credit.
+3. Volume Discount: 5% discount applied automatically on batch orders exceeding 1,000 units.
+4. Inventory Consignment: Nordic maintains a 30-day revolving safety stock buffer in regional European warehousing.

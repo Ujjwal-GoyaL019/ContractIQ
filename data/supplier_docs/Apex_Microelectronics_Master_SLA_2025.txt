@@ -1,0 +1,16 @@
+MASTER SUPPLY & SERVICE LEVEL AGREEMENT
+Supplier: Apex Microelectronics Corp (Taiwan)
+Buyer: Smart Inventory Solutions Inc.
+Effective Date: January 1, 2025
+
+1. SUPPLY COMMITMENT & LEAD TIME:
+Apex Microelectronics guarantees standard manufacturing lead times of 21 calendar days for Cortex-M4 MCU components (SKU-MCU-32B). Minimum order quantity (MOQ) is 500 units per purchase order.
+
+2. EXPEDITED ORDERS & SURCHARGES:
+Buyer may request an expedited 10-day turnaround subject to a 20% surcharge and fab line availability.
+
+3. CAPACITY & FORCE MAJEURE:
+In the event of global silicon wafer allocation shortages exceeding 15% industry supply reduction, Supplier reserves the right to pro-rata allocate deliveries across active tier-1 contract holders.
+
+4. WARRANTY & QUALITY STANDARDS:
+Defect rate guarantee is maintained at less than 100 DPPM (defects per million). Rejections will be replaced within 14 calendar days at Supplier's sole freight cost.
