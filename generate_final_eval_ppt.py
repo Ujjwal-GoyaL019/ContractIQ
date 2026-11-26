@@ -1189,7 +1189,7 @@ def build_final_presentation():
     lp1.font.color.rgb = CYAN
 
     lp2 = ltf12.add_paragraph()
-    lp2.text = "https://github.com/<your-username>/ContractIQ-AI-Supply-Chain"
+    lp2.text = "https://github.com/Ujjwal-GoyaL019/ContractIQ"
     lp2.font.size = Pt(12.5)
     lp2.font.bold = True
     lp2.font.color.rgb = TEXT_TITLE

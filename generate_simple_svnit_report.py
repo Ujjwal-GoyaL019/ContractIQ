@@ -587,7 +587,7 @@ def build_simple_report(output_filename):
 
     story.append(callout_box(
         "<b>Academic Evaluation Verification:</b> All 39 test suites pass hermetically. "
-        "Source code, sample PDFs, and benchmarks are available in the local project repository: <code>Projects/Rag project</code>.",
+        "Source code, sample PDFs, and benchmarks are available on GitHub: <b>https://github.com/Ujjwal-GoyaL019/ContractIQ</b>.",
         styles, border="#0284C7", bg="#F0F9FF"
     ))
     story.append(Spacer(1, 24))

@@ -757,7 +757,7 @@ def build_pdf_report(output_filename):
         "[3] Chen, T., & Guestrin, C. (2016). <i>XGBoost: A Scalable Tree Boosting System.</i> ACM SIGKDD.",
         "[4] Huang, G. et al. (2021). <i>HiGHS - High Performance Software for Linear Optimization.</i> Mathematical Programming Computation.",
         "[5] BAAI (2023). <i>C-Pack: Packaged Resources to Advance General Chinese and English Embedding.</i> arXiv:2309.07597.",
-        "[6] Project GitHub Repository: <b>https://github.com/svnit-ai/ContractIQ</b> (Local workspace: <code>Projects/Rag project</code>)"
+        "[6] Project GitHub Repository: <b>https://github.com/Ujjwal-GoyaL019/ContractIQ</b>"
     ]
     for r in refs:
         story.append(Paragraph(r, styles['BodyBullet']))
